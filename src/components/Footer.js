@@ -4,7 +4,7 @@ export const Footer = () => {
     return (
         <div className='footer'>
             <div className='socials'>
-                <a href="https://github.com/troydomio" target="_blank"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042017/untitled-2_5.png?itok=IlsUnu37" alt="github"/></a>
+                <a href="https://github.com/troydomio/.design" target="_blank"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042017/untitled-2_5.png?itok=IlsUnu37" alt="github"/></a>
 
                 <a href="https://www.linkedin.com/in/troydomio/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png" alt="linkedin"/></a>
 

@@ -9,8 +9,8 @@ export const Body = () => {
             <div>
                 <h1>Hi! My name is Troy.</h1>
                 <p>I uncover design solutions to complex problems by reimagining pain points into usable and enriching experiences. I craft interfaces and web applications for the users of tomorrow with the tools I have today. </p>
-                <p>↦ <a href="">Projects</a></p>
-                <p>↦ <a href="">Resume</a></p>
+                <p>↦ <a href="https://www.behance.net/troydomio" target="_blank">Projects</a></p>
+                <p>↦ <a href="https://drive.google.com/file/d/1GXFuYOXGvEVW9LXBQtJYg9jmokkgVanh/view" target="_blank">Resume</a></p>
                 <p>troy_domio@yahoo.com</p>
             </div>
         </div>
