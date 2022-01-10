@@ -1,3 +1,3 @@
 # Troy Domio Design Portfolio
-![alt text](blob:https://www.flickr.com/4425c881-e215-4bc0-a5e6-bc6b5782ef5f)
+![alt text](https://live.staticflickr.com/65535/51812183665_77b68e060b_b.jpg)
 
