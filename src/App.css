@@ -1,38 +1,61 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.name{
+  font-family: "Tenor Sans", sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: .1px;
+  color:#787276;
+  margin-left: 39vw;
+  margin-top: 9vh;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.body{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 4%;
 }
-
-.App-link {
-  color: #61dafb;
+.body img{
+  width: 35vw;
+  height: 70vh;
+  padding-right: 10%;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.body h1{
+  padding-bottom: 5%;
+  font-size: 45px;
+}
+.body p{
+  padding-bottom: 5%;
+  width: 45vw;
+  line-height: 32px;
+  font-size: 25px;
+}
+.body a{
+  color:black
+}
+.socials{
+  display: flex;
+  margin-top: 2%;
+  margin-left: 39vw;
+}
+.socials img{
+  width: 40px;
+  height: 40px;
+}
+.footer{
+  display: flex;
+}
+.credit{
+  margin-top: 3%;
+  margin-left: 2%;
+  color:#787276;
+}
+.credit a{
+  color:#787276;
 }
