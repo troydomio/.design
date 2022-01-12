@@ -59,3 +59,39 @@
 .credit a{
   color:#787276;
 }
+
+@media only screen and (max-width: 768px) {
+  .body{
+    display: block;
+    padding: 0;
+  }
+  .body img{
+    width: 100vw;
+    height: 400px;
+    margin-left: 5%;
+    margin-top: 5%;
+  }
+  .body h1{
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 30px;
+  }
+  .body p{
+    padding-bottom: 5%;
+    width: 85vw;
+    line-height: 32px;
+    font-size: 17px;
+    margin-left: 5%;
+  }
+  .socials{
+    margin-top: 2%;
+    margin-left: 9vw;
+  }
+  .socials img{
+    width: 27px;
+    height: 27px;
+  }
+  .credit{
+    font-size: 10px;
+  }
+}
