@@ -11,7 +11,7 @@ export const Body = () => {
                 <p> I'm a Texas-based UX designer and engineer. I take ideas, problems, and needs and transform them into enriching experiences! I craft interactions and applications for the users of tomorrow with the tools I have today.</p>
                 <p>↦ <a href="https://www.behance.net/troydomio" target="_blank">Projects</a></p>
                 <p>↦ <a href="https://drive.google.com/file/d/12pEAXTnBrXo5MiEqtfirOdfWcrdidQ8d/view" target="_blank">Resume</a></p>
-                <p>troy_domio@yahoo.com</p>
+                <a href="mailto:troy_domio@yahoo.com"><p>troy_domio@yahoo.com</p></a>
             </div>
         </div>
     )
